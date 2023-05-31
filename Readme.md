@@ -21,17 +21,6 @@ Además de las operaciones CRUD en la base de datos de películas, este proyecto
 - EJS
 - Sequelize
 
-## Instalación
-1. Clona el repositorio: `git clone https://github.com/tu_usuario/tu_repositorio.git`
-2. Ingresa al directorio del proyecto: `cd tu_repositorio`
-3. Instala las dependencias: `npm install`
-4. Configura la conexión a la base de datos en el archivo `.env`
-5. Ejecuta las migraciones de la base de datos: `npm run migrate`
-6. Inicia la aplicación: `npm start`
-
-## Uso
-- Accede a la aplicación a través de tu navegador web en la siguiente dirección: `http://localhost:3000`
-- Utiliza las diferentes rutas y funcionalidades para realizar operaciones CRUD en la base de datos de películas.
 
 ## Contribución
 Las contribuciones son bienvenidas. Si tienes alguna sugerencia o mejora, no dudes en abrir un problema o enviar un pull request.
